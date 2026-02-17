@@ -1,0 +1,16 @@
+
+fastapi
+uvicorn
+joblib
+lightgbm
+matplotlib
+mlflow
+dagshub
+dvc
+dvc[s3]
+nltk
+numpy
+pandas
+wordcloud
+seaborn
+-e .
